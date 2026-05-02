@@ -1,0 +1,9 @@
+ID, Nome, Idade, Sexo, Peso, Manchas, Temp., Num. Inter., Estado, Diagnóstico
+123, Marcos, 37, M, 73, Grandes, 38.0, 2, SP, Doente
+124, Maria, 18, F, 79, Pequenas, 39.5, 4, MG, Saudável
+125, Antônio, 40, M, 68, Pequenas, 38.0, 0, RS, Doente
+126, Luiza, 18, F, 90, Médias, 38.5, 11, MG, Doente
+127, Fábio, 50, M, 78, Grandes, 37.6, 2, PE, Saudável
+128, Carlos, 54, M, 56, Pequenas, 38.0, 3, RJ, Saudável
+129, Waldir, 72, M, 67, Grandes, 39.0, 0, AM, Doente
+130, Hegner, 22, M, 78, Médias, 38.4, 6, GO, Saudável
